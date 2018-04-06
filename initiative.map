@@ -1,7 +1,7 @@
 
 MAP
     EXTENT 50000 1990000 900000 2225000                   
-    UNITS meters
+    UNITS meter
     SIZE 800 550
     SHAPEPATH "C:/ms4w/apps/initiative/initiative_data"
     RESOLUTION 96
